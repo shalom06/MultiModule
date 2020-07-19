@@ -1,0 +1,3 @@
+include ':login'
+include ':app'
+rootProject.name = "MultiModule"
